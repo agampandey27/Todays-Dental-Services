@@ -15,7 +15,7 @@
 
 DentalCare is a modern, responsive website template for dental clinics. Built with React and styled with Tailwind CSS, it provides a professional and user-friendly interface for dental practices to showcase their services and connect with patients.
 
-### 🔴 [Live Demo](https://dental-care.vercel.app)
+### 🔴 [Live Demo](https://todays-dental-services.vercel.app/)
 
 ## ✨ Features
 
